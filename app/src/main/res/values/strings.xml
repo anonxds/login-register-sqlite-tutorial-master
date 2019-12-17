@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Monitoreo de pulso</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contrasena</string>
+    <string name="hint_confirm_password">Confirmar contrasena</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registrar</string>
+    <string name="error_message_name">Nombre completo</string>
+    <string name="error_message_email">Email Debe ser valido</string>
+    <string name="error_message_age">Ingrese edad</string>
+    <string name="error_message_password">Ingrese Contrasena</string>
+    <string name="success_message">Registracion exitosa</string>
+    <string name="text_not_member">Crear cuenta</string>
+    <string name="text_already_member">¿Ya te registrastes? Accede</string>
+    <string name="error_email_exists">Correo ya existe</string>
+    <string name="error_password_match">La contrasena no coincide</string>
+    <string name="error_valid_email_password">Mal escrita el correo o la contrasena</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Monitoreo de Pulso</string>
+</resources>
