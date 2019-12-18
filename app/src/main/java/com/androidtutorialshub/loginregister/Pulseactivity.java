@@ -200,7 +200,7 @@ public class Pulseactivity extends AppCompatActivity {
 
     void p(){
 
-        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        AlertDialog.Builder builder = new AlertDialog.Builder(this, R.style.AlertStyle);
         builder.setTitle("Establecer Alerta cardiaca HPB");
 
 // Set up the input
